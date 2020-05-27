@@ -1,8 +1,8 @@
 # Projecto - AC 2019/20
 
-• João Nunes 96745                     
-• Francisco Paiva 96737                   
-• Gonçalo Costa 92881
+• João Nunes                     
+• Francisco Paiva                 
+• Gonçalo Costa
 
 ## 1. Introdução
 

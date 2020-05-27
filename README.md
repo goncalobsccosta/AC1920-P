@@ -20,6 +20,8 @@ Se o a pontuação do jogador for menor do que zero (i.e., se estando com 0 pont
 
 Para a conceção deste projeto utilizou-se o processador microprocessador PEPE-16. 
 
+Comandos no teclado:
+
 | Tecla | Acção |
 |:---:|:---|
 | __0__ | Iniciar jogo. |
